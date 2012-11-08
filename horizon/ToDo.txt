@@ -1,0 +1,3 @@
+Plan Linear Algebra Program.
+add Ability to print/read from files,
+or from command prompt to wish list. 30m
